@@ -1,6 +1,6 @@
 # CTPY_SEE_DEC_2020
-# ENG19CS0337tenzinchoedon
-# 5a)
+ ENG19CS0337tenzinchoedon
+5a)
 if k in data1:
             v1 = data1[k]
         if v1 != v2:
@@ -11,7 +11,7 @@ if k in data1:
     return dupKeys
     
     
-# 5b)
+5b)
 def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
@@ -38,7 +38,7 @@ def uniqueUpdate(data1, data2):
     return dupKeys
     
     
-# 5c) test case 1
+ 5c) test case 1
    4
     1 2
     3 3
